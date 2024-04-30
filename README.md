@@ -9,7 +9,7 @@
 <div> - How to reach me ig: batbold.g.u </div> 
 </div>
  
-<p align="left" style="margin-top: 10px"> <img src="https://www.instagram.com/p/CPsvjBhnNoe/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==" alt="Batbold" /> </p>
+<p align="left" style="margin-top: 10px, with: 20px "> <img src="https://www.instagram.com/p/CPsvjBhnNoe/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==" alt="Batbold" /> </p>
 
 
 
